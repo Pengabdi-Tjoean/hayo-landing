@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Privacy Preferences
     description                           : Set your own event privacy preferences whether you want it to be public or private.
-    fontawesome_icon_name                 : gear
+    fontawesome_icon_name                 : sliders
 
   - title                                 : Album
     description                           : Upload your photos and share it with your friends!
